@@ -3,11 +3,11 @@
 ## A 3D environment builder with primitives for prototyping. (🚧 WIP)
 
 ### Description 
-Though it is itself a prototype, this project ambition is to allow you to quickly prototype 3D scenes using primives and simple materials and textures directly from a VR environment. 
+Though it is itself a prototype, this project ambition is to allow you to quickly prototype 3D scenes using primives and simple materials and textures directly from a VR environment. I only tested it using the Meta quest 2.
 
 ### Installation
 
-You will need to build view3R using unreal engine 5 to try it.
+You can build view3R using unreal engine 5 to try it or you can download it from the release tab.
 
 ### Usage
 
